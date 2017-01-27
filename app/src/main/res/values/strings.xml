@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Helloworld</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">senha</string>
+    <string name="login">Login</string>
+    <string name="permanecerlogado">Permanecer conectado?</string>
+</resources>
